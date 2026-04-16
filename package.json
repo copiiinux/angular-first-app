@@ -9,7 +9,7 @@
   },
   "private": true,
   "dependencies": {
-    "@angular/common": "^21.2.0-next",
+    "@angular/common": "^21.2.9",
     "@angular/compiler": "^21.2.0-next",
     "@angular/core": "^21.2.0-next",
     "@angular/forms": "^21.2.0-next",
