@@ -12,7 +12,7 @@
     "@angular/common": "^21.2.0-next",
     "@angular/compiler": "^21.2.0-next",
     "@angular/core": "^21.2.0-next",
-    "@angular/forms": "^21.2.0-next",
+    "@angular/forms": "^21.2.9",
     "@angular/platform-browser": "^21.2.0-next",
     "@angular/router": "^21.2.0-next",
     "rxjs": "~7.8.0",
