@@ -1,4 +1,4 @@
-.angular
-.idea
-node_modules
-build
+.angular/
+.idea/
+dist/
+node_modules/
