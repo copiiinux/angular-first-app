@@ -21,7 +21,7 @@
   },
   "devDependencies": {
     "@angular/build": "^21.2.0-next",
-    "@angular/cli": "^21.2.0-next",
+    "@angular/cli": "^21.2.8",
     "@angular/compiler-cli": "^21.2.9",
     "@types/node": "^16.11.35",
     "json-server": "^1.0.0-beta.15",
